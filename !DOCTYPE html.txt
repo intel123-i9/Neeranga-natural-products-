@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Neeranga Natural Products</title>
+  <style>
+    body { font-family: sans-serif; line-height: 1.6; margin: 20px; background: #f3f3f3; }
+    header { background: #88c999; padding: 20px; text-align: center; color: white; }
+    section { margin: 20px 0; background: white; padding: 20px; border-radius: 5px; }
+    h1, h2 { color: #2a5934; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Neeranga Natural Products</h1>
+    <p>Natural content by Kumuduni Padmakumari</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi, I'm Kumuduni Padmakumari, a content creator sharing my love for natural living. I create videos on YouTube and social platforms focusing on herbal remedies, traditional Sri Lankan practices, and eco-living.</p>
+  </section>
+
+  <section>
+    <h2>Latest Videos</h2>
+    <p>Watch my content on <a href="#">YouTube</a>, follow me on <a href="#">Instagram</a>, and like my page on <a href="#">Facebook</a>.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email: neeranganatural@gmail.com</p>
+  </section>
+</body>
+</html>
